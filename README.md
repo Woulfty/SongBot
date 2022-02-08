@@ -6,7 +6,9 @@
 
 <h3>Etape 1 :</h3>
 Récupére le code en utilisant la commande 
-> git clone https://github.com/Woulfty/SongBot 
+```
+git clone https://github.com/Woulfty/SongBot 
+```
 dans le terminal de Visual Studio Code.
 
 <h3>Etape 2 :</h3>
