@@ -6,7 +6,8 @@
 
 <h3>Etape 1 :</h3>
 
-Crée ton bot sur le DEVELOPER PORTAL : https://discord.com/developers/applications
+Crée une nouvelle application sur le DEVELOPER PORTAL : https://discord.com/developers/applications
+<img src="">
 
 Utilise la commande ``` npm install discord.js@^12.5.3 ffmpeg fluent-ffmpeg @discordjs/opus ytdl-core --save ``` pour instaler la librairie ytdl et le dossier ffmpeg qui te permetera de lire les musiques et ainsi faire fonctionner ton bot.
 
