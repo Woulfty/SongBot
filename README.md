@@ -4,7 +4,7 @@
 
 <h2>Tuto pour crée un bot musical avec discord.js</h2>
 
-utilise la commande ``` npm install discord.js@^12.5.3 ffmpeg fluent-ffmpeg @discordjs/opus ytdl-core --save ``` pour instaler la librairie ytdl et le dossier ffmpeg qui te permetera de faire fonctionner ton bot.
+utilise la commande ``` npm install discord.js@^12.5.3 ffmpeg fluent-ffmpeg @discordjs/opus ytdl-core --save ``` pour instaler la librairie ytdl et le dossier ffmpeg qui te permetera de lire les musiques et ainsi faire fonctionner ton bot.
 
 En cas de problème avec les dossiers ffmpeg utilise la documentation sur ce site : http://ffmpeg.org/download.html
 
