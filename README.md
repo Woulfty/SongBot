@@ -8,7 +8,7 @@
 Récupére le code en utilisant la commande ```git clone https://github.com/Woulfty/SongBot``` dans le terminal de Visual Studio Code.
 
 ### Etape 2 :
-Crée une nouvelle application sur le DEVELOPER PORTAL : https://discord.com/developers/applications.
+Crée une nouvelle application sur le [DEVELOPER PORTAL](https://discord.com/developers/applications).
 
 <img src="IMG/etape1.png">
 
