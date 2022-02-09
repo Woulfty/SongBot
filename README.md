@@ -5,7 +5,7 @@
 ## Tuto pour crée un bot musical avec discord.js
 
 ### Etape 1 :
-Récupére le code en utilisant la commande ( git clone https://github.com/Woulfty/SongBot ) dans le terminal de Visual Studio Code.
+Récupére le code en utilisant la commande ```git clone https://github.com/Woulfty/SongBot``` dans le terminal de Visual Studio Code.
 
 ### Etape 2 :
 Crée une nouvelle application sur le DEVELOPER PORTAL : https://discord.com/developers/applications.
